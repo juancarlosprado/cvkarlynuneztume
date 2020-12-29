@@ -1,0 +1,37 @@
+#MarcoHoja{
+    padding: 1%;
+    margin: 0 auto;
+    border: solid #78BAF5;
+    text-align: justify;
+    width: 75%;
+    background: #B5DAFA;
+    opacity: 0.91;
+    
+}
+#Datos{
+    margin: 2% auto;
+    text-align: right;
+    width:100%
+}
+#Introduccion{
+    width: 100%
+}
+
+table {
+    width: 75%;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    /*No entiendp bien para que es padding*/
+    padding: 0.3em;
+    caption-side: bottom;
+ }
+ caption {
+    padding: 0.3em;
+    color: #a1d3b6;
+     background:  #78BAF5;
+ }
+ th {
+    background: #78BAF5;
+ }
